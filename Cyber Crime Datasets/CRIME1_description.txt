@@ -1,0 +1,21 @@
+CRIME1.DES
+
+  1. county                   county identifier
+  2. pop                      population
+  3. crimes                   total number index crimes
+  4. unem                     unemployment rate
+  5. officers                 number police officers
+  6. pcinc                    per capita income
+  7. west                     =1 if county in west
+  8. nrtheast                 =1 if county in NE
+  9. south                    =1 if county in south
+ 10. year                     82 or 87
+ 11. area                     land area, square miles
+ 12. d87                      =1 if year = 87
+ 13. popden                   people per sq mile
+ 14. crmrte                   crimes per 1000 people
+ 15. offarea                  officers per sq mile
+ 16. lawexpc                  law enforce. expend. pc, $
+ 17. polpc                    police per 1000 people
+
+

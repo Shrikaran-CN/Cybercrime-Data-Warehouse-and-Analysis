@@ -1,0 +1,9 @@
+CRIME2.DES
+
+  1. district                 county identifier
+  2. year                     82 or 88
+  3. clrprc1                  clear-up perc, prior year
+  4. clrprc2                  clear-up perc, two-years prior
+  5. d88                      =1 if year = 88
+
+
