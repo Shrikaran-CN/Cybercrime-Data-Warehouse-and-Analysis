@@ -4,6 +4,7 @@
 This project was developed to design and implement a data warehouse for analyzing cybercrime data. The primary objectives were:
 1. Crime Hotspot Identification – Determining areas with a high incidence of crime.
 2. Policing Strategy Recommendations – Providing actionable insights for NCCU to develop effective policing strategies.
+
 To achieve these objectives, a data warehouse was built using SQL Server Management Studio (SSMS), ETL pipelines were implemented using SQL Server Integration Services (SSIS), and data analysis & visualization were performed using Power BI.
 
 ## Technologies Used
@@ -26,12 +27,14 @@ The analysis was conducted using Power BI, leveraging the data warehouse to gene
  * Crime Rate by County – A bar chart ranking counties by their average crime rate (crmrte), helping to identify high-crime areas.
  * Crime Rate Trend Over Time – A line chart illustrating the changes in crime rate over the years, highlighting trends in criminal activity.
  * Crime Density & Crime Rate Averages – Key metrics summarizing the overall crime rate and crime density.
+
 ![Screenshot 2024-12-03 161426](https://github.com/user-attachments/assets/cb04e97e-e166-47a5-bc52-e8a720713bbb)
 
 2. Policing Strategies Analysis
  * Crime Rate vs. Police Presence – A bar and line combination chart showing the relationship between crime rate (crmrte) and police officers per capita (pol_p1000p) across different counties.
  * Crime Density vs. Police Presence – Another visualization comparing crime density with policing resources to assess their effectiveness.
  * Probabilities of Arrest & Conviction – Key performance indicators (prbarr, prbconv) to evaluate law enforcement efficiency.
+
 ![Screenshot 2024-12-03 161609](https://github.com/user-attachments/assets/51085d9c-4361-40d5-af5b-d1b214b4c934)
 These dashboards help in identifying high-crime areas and assessing the effectiveness of policing efforts, aiding NCCU in optimizing resource allocation and strategy formulation.
 
