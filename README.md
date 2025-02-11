@@ -39,12 +39,12 @@ The analysis was conducted using Power BI, leveraging the data warehouse to gene
 These dashboards help in identifying high-crime areas and assessing the effectiveness of policing efforts, aiding NCCU in optimizing resource allocation and strategy formulation.
 
 ## Key Findings
-1. Crime Hotspot Identification
+#### 1. Crime Hotspot Identification
  * Certain counties, such as county_id 119, 129, and 63, have the highest crime rates (crmrte), making them potential crime hotspots.
  * Crime rates fluctuated over the years, with a noticeable decline in 1984, followed by a rise towards 1987, indicating possible external factors influencing crime trends.
  * The overall average crime rate is approximately 0.03, suggesting a relatively low but non-negligible rate across all counties.
    
-2. Policing Strategies Effectiveness
+#### 2. Policing Strategies Effectiveness
  * Higher police presence (pol_p1000p) does not always correlate with lower crime rates, indicating that other factors might be influencing crime trends.
  * Counties with high crime rates (e.g., 119, 129, and 63) also show higher crime density, emphasizing the need for targeted policing efforts in these areas.
  * Probabilities of arrest (prbarr) and conviction (prbconv) vary across counties, affecting overall crime deterrence effectiveness.
