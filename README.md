@@ -35,7 +35,7 @@ The analysis was conducted using Power BI, leveraging the data warehouse to gene
  * Crime Density vs. Police Presence – Another visualization comparing crime density with policing resources to assess their effectiveness.
  * Probabilities of Arrest & Conviction – Key performance indicators (prbarr, prbconv) to evaluate law enforcement efficiency.
 
-![Screenshot 2024-12-03 161609](https://github.com/user-attachments/assets/51085d9c-4361-40d5-af5b-d1b214b4c934)
+![image](https://github.com/user-attachments/assets/f35e598a-b08f-4489-a0b7-368a05a09d0f)
 These dashboards help in identifying high-crime areas and assessing the effectiveness of policing efforts, aiding NCCU in optimizing resource allocation and strategy formulation.
 
 ## Key Findings
@@ -45,13 +45,13 @@ These dashboards help in identifying high-crime areas and assessing the effectiv
  * The overall average crime rate is approximately 0.03, suggesting a relatively low but non-negligible rate across all counties.
    
 #### 2. Policing Strategies Effectiveness
- * Higher police presence (pol_p1000p) does not always correlate with lower crime rates, indicating that other factors might be influencing crime trends.
- * Counties with high crime rates (e.g., 119, 129, and 63) also show higher crime density, emphasizing the need for targeted policing efforts in these areas.
+ * Higher police presence (polpc) does not always correlate with lower crime rates, indicating that other factors might be influencing crime trends.
+ * Counties with high crime rates (e.g., 119, 129, and 63) also show higher population density, emphasizing the need for targeted policing efforts in these areas.
  * Probabilities of arrest (prbarr) and conviction (prbconv) vary across counties, affecting overall crime deterrence effectiveness.
  * Some counties with low crime rates still have significant police presence, suggesting potential inefficiencies in resource allocation.
   
 ### Recommendations for NCCU
-* Focus policing efforts on high-crime counties such as 119, 129, and 63 to improve crime prevention strategies.
+* Focus policing efforts on high-crime counties such as 119, 129, and 63, where high population density may contribute to crime trends.
 * Investigate the causes of crime fluctuations over the years to identify patterns and external influences.
 * Reassess police resource allocation to ensure that high-crime areas receive adequate law enforcement support.
 * Enhance arrest and conviction rates in crime-prone areas to strengthen deterrence measures.
