@@ -1,4 +1,4 @@
-# Cyber-Crime-Data-Warehouse-and-Analysis
+# Cybercrime-Data-Warehouse-and-Analysis
 
 ## Overview
 This project was developed to design and implement a data warehouse for analyzing cybercrime data. The primary objectives were:
